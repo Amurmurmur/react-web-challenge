@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7487a3a9-c9e8-42df-a88b-f6befad8aefa/deploy-status)](https://app.netlify.com/sites/vigilant-wozniak-b168eb/deploys)
+<br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
